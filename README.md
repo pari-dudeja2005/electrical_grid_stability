@@ -12,4 +12,4 @@ Power Generation Parameters (P1, P2, P3, P4): These parameters reflect the power
 
 Grid Performance Metrics (G1, G2, G3, G4): These metrics help assess the grid's overall functioning and efficiency.
 
-Stability Indicators (Alpha): These parameters are typically derived from system behavior, helping identify the potential for system instability.
+Stability Indicators (Alpha): This parameter is typically derived from system behavior, helping identify the potential for system instability.
